@@ -6,7 +6,7 @@ game_hash
   team_name: "Brooklyn Nets" ,
   colors: ["black", "white"] ,
  #* The `:players` key points to an `Array` of `Hash`es. Each `Hash` in the `Array`
-  players: {
+  :players => [
 "Alan Anderson" => {
   :number => 0,
   :shoe => 16,
