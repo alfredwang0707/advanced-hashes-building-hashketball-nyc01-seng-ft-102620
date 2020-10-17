@@ -5,8 +5,8 @@ game_hash
   home: {
   team_name: "Brooklyn Nets" ,
   colors: ["black", "white"] ,
- #* The `:players` key points to an `Array` of `Hash`es. Each `Hash` in the `Array`
   :players => [
+     #* The `:players` key points to an `Array` of `Hash`es. Each `Hash` in the `Array`
     {
 name: => "Alan Anderson" => {
   :number => 0,
