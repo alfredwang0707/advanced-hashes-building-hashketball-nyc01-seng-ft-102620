@@ -8,7 +8,7 @@ game_hash
   :players => [
      #* The `:players` key points to an `Array` of `Hash`es. Each `Hash` in the `Array`
     
-   {:name => "Alan Anderson"
+   {:name => "Alan Anderson", 
   :number => 0,
   :shoe => 16,
   :points => 22, 
@@ -18,7 +18,7 @@ game_hash
   :blocks => 1, 
   :slam_dunks => 1 
   },
-   {:name => "Reggie Evans"
+   {:name => "Reggie Evans", 
    :number => 30, 
    :shoe => 14, 
    :points => 12, 
