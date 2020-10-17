@@ -7,7 +7,8 @@ game_hash
   colors: ["black", "white"] ,
  #* The `:players` key points to an `Array` of `Hash`es. Each `Hash` in the `Array`
   :players => [
-"Alan Anderson" => {
+    {
+name: => "Alan Anderson" => {
   :number => 0,
   :shoe => 16,
   :points => 22, 
