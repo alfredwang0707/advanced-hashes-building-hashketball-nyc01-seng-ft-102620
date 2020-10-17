@@ -63,7 +63,7 @@ game_hash
    away: {
   team_name: "Charlotte Hornets" ,
   colors: ["Turquoise" , "Purple"] ,
-  :players => [ 
+  players: => [ 
   {
       "Jeff Adrien" =>{
         :number => 4, 
