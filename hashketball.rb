@@ -2,9 +2,9 @@ require "pry"
 
 game_hash
 { 
-  :home {
-  team_name: "Brooklyn Nets" ,
-  colors: ["black", "white"] ,
+  :home => {
+  :team_name "Brooklyn Nets" ,
+  :colors => ["black", "white"] ,
   :players => [
      #* The `:players` key points to an `Array` of `Hash`es. Each `Hash` in the `Array`
     
