@@ -5,7 +5,7 @@ def game_hash
   :home => {
   :team_name => "Brooklyn Nets" ,
   :colors => ["black", "white"] ,
-  :players => [
+  :player_name => [
      #* The `:players` key points to an `Array` of `Hash`es. Each `Hash` in the `Array`
  {:name => "Alan Anderson", 
   :number => 0,
@@ -62,7 +62,7 @@ def game_hash
    :away => {
   :team_name => "Charlotte Hornets" ,
   :colors => ["Turquoise" , "Purple"] ,
-  :players => [ 
+  :player_name => [ 
   {
         :name => "Jeff Adrien" ,
         :number => 4, 
